@@ -27,6 +27,6 @@ https://imagemagick.org/script/identify.php
 
 https://unix.stackexchange.com/questions/294341/shell-script-to-separate-and-move-landscape-and-portrait-images
 
-##logo for mobile
+## logo for mobile
 
 related code is in [_includes/_navigation.html](_includes/_navigation.html)
