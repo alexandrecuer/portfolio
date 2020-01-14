@@ -1,8 +1,8 @@
 using foundation framework and not bootstrap 
 
-the [foundation grid system] (https://get.foundation/sites/docs-v5/components/grid.html)
+the [foundation grid system](https://get.foundation/sites/docs-v5/components/grid.html)
 
-## orginal repo
+## original repo
 
 https://github.com/Phlow/feeling-responsive
 
