@@ -1,10 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "images de voyages !"
-subheadline: "Andalousie 2019"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
+subheadline: "Voyage de l'automne 2019 !"
+title: "Andalousie"
+header: no
 permalink: "/andalousie/"
 ---
 <ul>
