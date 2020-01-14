@@ -6,12 +6,20 @@
 {% endcomment %}
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
+    
     <ul class="title-area">
+      
       <li class="name">
-      <h1 class="show-for-small-only"><a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {{ site.title }}</a></h1>
-    </li>
+        <!-- removed usage of the class="icon-tree" in the href tag -->
+        <!-- not using {{ site.title }} -->
+        <h1 class="show-for-small-only">
+          <div class="small-6 columns">
+          <a href="{{ site.url }}{{ site.baseurl }}"><img src={{ "/assets/img/" | absolute_url }}logo2.png></a>
+          </div>
+        </h1>
+      </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+      <li class="toggle-topbar icon"><a href="#"><span>Nav</span></a></li>
     </ul>
     <section class="top-bar-section">
 {% comment %}

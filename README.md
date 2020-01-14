@@ -1,5 +1,7 @@
 using foundation framework and not bootstrap 
 
+the [foundation grid system] (https://get.foundation/sites/docs-v5/components/grid.html)
+
 ## orginal repo
 
 https://github.com/Phlow/feeling-responsive
@@ -9,6 +11,10 @@ https://github.com/Phlow/feeling-responsive
 https://github.com/alexivkin/Jekyll-Art-Gallery-Plugin
 
 https://olgaivkin.com/portfolio/flowers/
+
+the [documentation](https://alexandrecuer.github.io/portfolio/documentation)
+
+the [blog](https://alexandrecuer.github.io/portfolio/blog)
 
 ## image manipulation
 
@@ -20,3 +26,4 @@ right now done manually with a window dos script
 https://imagemagick.org/script/identify.php
 
 https://unix.stackexchange.com/questions/294341/shell-script-to-separate-and-move-landscape-and-portrait-images
+
