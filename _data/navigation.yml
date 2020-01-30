@@ -21,3 +21,10 @@
     url: "/andalousie/cordoue/"
   - title: "Séville"
     url: "/andalousie/sevilla/"
+
+- title: Vacances
+  url: "/vacances"
+  side: left
+  dropdown:
+  - title: "2019"
+    url: "/vacances/2019/"
