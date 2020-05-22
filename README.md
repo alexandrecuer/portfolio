@@ -5,7 +5,7 @@ the [foundation grid system](https://get.foundation/sites/docs-v5/components/gri
 to run the site localy :
 
 ```
-jekyll serve --config _config_dev.yml
+jekyll serve --config _config.yml,_config_dev.yml
 ```
 
 ## original repo
