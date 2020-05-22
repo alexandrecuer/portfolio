@@ -2,6 +2,12 @@ using foundation framework and not bootstrap
 
 the [foundation grid system](https://get.foundation/sites/docs-v5/components/grid.html)
 
+to run the site localy :
+
+```
+jekyll serve --config _config_dev.yml
+```
+
 ## original repo
 
 https://github.com/Phlow/feeling-responsive
