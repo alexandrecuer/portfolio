@@ -20,13 +20,9 @@ image:
 
 {% include gallery %}
 
-
-
-
 ## toutes les images inclassées
 {: .t60 }
 {% include list-posts tag='misc' %}
-
 
 
  [1]: http://foundation.zurb.com/docs/components/clearing.html
