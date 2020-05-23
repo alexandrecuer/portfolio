@@ -8,6 +8,10 @@ to run the site localy :
 jekyll serve --config _config.yml,_config_dev.yml
 ```
 
+## adding a collection of photos
+
+
+
 ## original repo
 
 https://github.com/Phlow/feeling-responsive
