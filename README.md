@@ -105,3 +105,13 @@ https://unix.stackexchange.com/questions/294341/shell-script-to-separate-and-mov
 ## logo for mobile
 
 related code is in [_includes/_navigation.html](_includes/_navigation.html)
+
+## batch ressources
+
+https://fr.wikibooks.org/wiki/DOS/Tree
+
+https://initscreen.developpez.com/tutoriels/batch/apprendre-la-programmation-de-script-batch/
+
+https://www.robvanderwoude.com/escapechars.php
+
+https://windows.developpez.com/faq/batch/?page=fichiers
