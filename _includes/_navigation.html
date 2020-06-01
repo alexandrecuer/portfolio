@@ -33,7 +33,15 @@
 
 {% endcomment %}
       <ul class="right">
-        <a href=https://alexjunk.pagesperso-orange.fr/>Old music</a>
+        <li class="has-dropdown not-click">
+            <a>Music</a>
+            <ul class=dropdown>
+                <li><a href="https://soundcloud.com/alexjunk/tracks" target="_blank">Soundcloud</a>
+                <li class="divider"></li>
+                <li><a href="https://alexjunk.pagesperso-orange.fr" target="_blank">Old music</a>
+            </ul>
+        </li>
+        
         {% for link in site.data.navigation %}
 
               {% if link.url contains 'http' %}
