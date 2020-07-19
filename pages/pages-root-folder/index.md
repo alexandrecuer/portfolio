@@ -41,7 +41,7 @@ permalink: /index.html
 #
 homepage: true
 ---
-<a href="/andalousie/cordoue">Cordoue</a>
+
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
      <iframe width="560" height="315" src="https://www.youtube.com/embed/vKxbpUA3xXY" frameborder="0" allowfullscreen></iframe>
