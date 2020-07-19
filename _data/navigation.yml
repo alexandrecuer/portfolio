@@ -28,6 +28,8 @@
   dropdown:
   - title: "2019"
     url: "/vacances/2019/"
+  - title: "14 Juillet 2020"
+    url: "/vacances/2020_07_14_we"
 
 - title: Divers
   url: "/divers"
