@@ -27,9 +27,11 @@ Ouvrez un explorateur Windows depuis le dossier `portfolio` et lancez un invité
 ```
 traitement.bat C:\Users\alexandre.cuer\Desktop\extra\balades_deconf\busset divers balades_deconf
 ```
-Le script crée automatiquement la [page de la collection](collection.md) mais la crée à la racine, directement dans [_posts](_posts). 
+les images retaillées seront produites dans `images/divers/balades_deconf`: il ne faut donc pas de caractères accentués dans ces paramètres !!!! 
 
-Il convient de la ranger manuellement dans le sous-répertoire adapté, après l'avoir éditée pour modifier le titre afin d'en faire une phrase (balades_deconf par exemple n'est pas très parlant)
+Le script crée automatiquement la [page de la collection](collection.md), à la racine, directement dans [_posts](_posts). 
+
+Il convient de la ranger manuellement dans le sous-répertoire adapté, après l'avoir éditée pour modifier le titre afin d'en faire une phrase. Par défaut, le script utilise balades_deconf pour le titre mais ce n'est pas très parlant....
 
 Nota : la page de la collection n'est qu'un template, le script qui fait le travail est [_includes/gallery](_includes/gallery)
 
