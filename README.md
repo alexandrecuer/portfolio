@@ -56,6 +56,8 @@ script à créer
 
 Lorsque le menu de navigation se charge trop, on peut créer des archives annuelles....
 
+cf [pages/vacances_2019.md](pages/vacances_2019.md)
+
 ## original repo
 
 https://github.com/Phlow/feeling-responsive
