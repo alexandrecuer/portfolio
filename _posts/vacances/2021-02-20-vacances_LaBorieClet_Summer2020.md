@@ -9,6 +9,7 @@ categories:
     - vacances
 tags:
     - vacances
+    - vacances_2020
 image:
    base: vacances/LaBorieClet_Summer2020/vacances_LaBorieClet_Summer2020
    start: 1
