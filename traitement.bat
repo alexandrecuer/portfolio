@@ -71,6 +71,6 @@ echo    max: %nb%
 echo ---
 echo {%% include gallery %%}
 echo {: .t60 }
-echo {%% include list-posts tag='misc' %%})>>%postname%
+echo {%% include list-posts tag='%2' %%})>>%postname%
 
 endlocal

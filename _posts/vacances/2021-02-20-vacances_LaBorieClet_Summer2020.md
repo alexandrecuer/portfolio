@@ -16,4 +16,4 @@ image:
 ---
 {% include gallery %}
 {: .t60 }
-{% include list-posts tag='misc' %}
+{% include list-posts tag='vacances' %}
