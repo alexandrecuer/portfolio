@@ -65,6 +65,7 @@ echo categories:
 echo     - %2
 echo tags:
 echo     - %2
+         - %2_%4
 echo image:
 echo    base: %2/%3/%2_%3
 echo    start: 1
