@@ -16,20 +16,20 @@ Il faut générer des photos de taille 800x600 et des miniatures
 
 La situation est la suivante :
 
-- Vous conservez vos photos originales dans un répertoire sur votre bureau, par exemple : `C:\Users\alexandre.cuer\Desktop\extra\`
-
-- Vous chargez un jeu de photos dans ce dossier `extra`, au sein d'un dossier `balades_deconf\busset`
-
 - Vous avez cloné le site via Github Desktop dans un dossier `C:\Users\alexandre.cuer\Documents\GitHub\portfolio`
 
-Ouvrez un explorateur Windows depuis ce dossier `portfolio` et lancez un invité de commande msdos depuis ce dossier
+- Vous conservez vos photos originales dans un répertoire sur votre bureau, par exemple : `C:\Users\alexandre.cuer\Desktop\extra\` ou directement dans le dossier github, dans un dossier `sources`
+
+- Vous chargez un jeu de photos dans ce dossier `extra` ou `sources`, au sein d'un dossier `balades_deconf\busset`
+
+Ouvrez un explorateur Windows depuis le dossier `portfolio` et lancez un invité de commande msdos depuis ce dossier
 
 ```
 traitement.bat C:\Users\alexandre.cuer\Desktop\extra\balades_deconf\busset divers balades_deconf
 ```
-Le script crée automatiquement la [page de la collection](collection.md) mais le crée à la racine, directement dans [_posts](_posts). 
+Le script crée automatiquement la [page de la collection](collection.md) mais la crée à la racine, directement dans [_posts](_posts). 
 
-Il convient de le ranger manuellement dans le sous-répertoire adapté. 
+Il convient de la ranger manuellement dans le sous-répertoire adapté, après l'avoir éditée pour modifier le titre afin d'en faire une phrase (balades_deconf par exemple n'est pas très parlant)
 
 Nota : la page de la collection n'est qu'un template, le script qui fait le travail est [_includes/gallery](_includes/gallery)
 
