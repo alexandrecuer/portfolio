@@ -31,8 +31,9 @@ FOR %%G IN (*.jpg) DO (
   :: if you want only the file name without the extension, you can use %%~nG
   set /A nb+=1
   echo !nb!
-  convert "%%G" -resize 800x600 -rotate "90" "%folder%/%prefix%_!nb!.jpg"
-  convert "%%G" -resize 200x150 -rotate "90" "%folder%/%prefix%_!nb!-thumb.jpg"
+  REM -rotate "90"
+  convert "%%G" -resize 800x600 "%folder%/%prefix%_!nb!.jpg"
+  convert "%%G" -resize 200x150 "%folder%/%prefix%_!nb!-thumb.jpg"
 )
 
 FOR %%G IN (landscape/*.jpg) DO (
@@ -56,7 +57,7 @@ if exist %postname% (
 (echo ---
 echo layout: page
 echo header: no
-echo subheadline:  %now%
+echo subheadline:  %2
 echo title: %3
 echo breadcrumb: true
 echo permalink: /%2/%3
