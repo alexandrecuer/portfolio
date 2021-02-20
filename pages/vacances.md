@@ -7,7 +7,7 @@ header: no
 permalink: "/vacances/"
 ---
 <ul>
-    {% for post in site.categories.holidays %}
+    {% for post in site.tags.vacances %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
