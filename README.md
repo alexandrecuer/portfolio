@@ -25,9 +25,11 @@ La situation est la suivante :
 Ouvrez un explorateur Windows depuis ce dossier `portfolio` et lancez un invité de commande msdos depuis ce dossier
 
 ```
-traitement.bat C:\Users\alexandre.cuer\Desktop\extra\balades_deconf\busset divers balades_deconf busset
+traitement.bat C:\Users\alexandre.cuer\Desktop\extra\balades_deconf\busset divers balades_deconf
 ```
-Le script crée automatiquement la [page de la collection](collection.md) 
+Le script crée automatiquement la [page de la collection](collection.md) mais le crée à la racine, directement dans [_posts](_posts). 
+
+Il convient de le ranger manuellement dans le sous-répertoire adapté. 
 
 Nota : la page de la collection n'est qu'un template, le script qui fait le travail est [_includes/gallery](_includes/gallery)
 
@@ -47,6 +49,10 @@ script à créer
   - title: "Busset"
     url: "/divers/conf_2020_busset"
 ```
+
+### Archivage
+
+Lorsque le menu de navigation se charge trop, on peut créer des archives annuelles....
 
 ## original repo
 
