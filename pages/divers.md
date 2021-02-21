@@ -7,7 +7,7 @@ header: no
 permalink: "/divers/"
 ---
 <ul>
-    {% for post in site.categories.misc %}
+    {% for post in site.tags.divers %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

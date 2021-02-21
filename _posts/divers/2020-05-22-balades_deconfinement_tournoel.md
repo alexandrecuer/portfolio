@@ -10,8 +10,8 @@ permalink: /divers/conf_2020_tournoel
 categories:
     - misc
 tags:
-    - misc
-    - misc_2020
+    - divers
+    - divers_2020
 image:
    base: divers/balades_deconf/tournoel/balades_deconf_tournoel
    start: 1
@@ -25,7 +25,7 @@ image:
 
 ## toutes les images inclassées
 {: .t60 }
-{% include list-posts tag='misc' %}
+{% include list-posts tag='divers' %}
 
 
 

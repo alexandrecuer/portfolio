@@ -10,8 +10,8 @@ permalink: /divers/conf_2020_busset
 categories:
     - misc
 tags:
-    - misc
-    - misc_2020
+    - divers
+    - divers_2020
 image:
    base: divers/balades_deconf/busset/balades_deconf_busset
    start: 1
@@ -22,4 +22,4 @@ image:
 
 ## toutes les images inclassées
 {: .t60 }
-{% include list-posts tag='misc' %}
+{% include list-posts tag='divers' %}
