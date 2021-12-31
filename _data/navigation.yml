@@ -28,20 +28,8 @@
   dropdown:
   - title: "2019"
     url: "/vacances/2019/"
-  - title: "14 Juillet 2020"
-    url: "/vacances/2020_07_14_we"
-  - title: "été 2020, la Borie et Clet" 
-    url: "/vacances/LaBorieClet_Summer2020"
-  - title: "été 2020, balade sur la draille" 
-    url: "/vacances/SurLaDraille_Summer2020"
-  - title: "été 2020, quelques jours en Aveyron et dans le Tarn" 
-    url: "/vacances/aveyron_Summer2020"
-  - title: "été 2020, balade autour de Saint-Romand de Tousque" 
-    url: "/vacances/Saint-Roman_Summer2020"
-  - title: "été 2020, quelques photos à la Loubière" 
-    url: "/vacances/loubiere_Summer2020"
-  - title: "été 2020, le soleil du Var" 
-    url: "/vacances/callian_Summer2020"
+  - title: "2020"
+    url: "/vacances/2020/"
 
 - title: Divers
   url: "/divers"
