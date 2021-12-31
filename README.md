@@ -27,9 +27,9 @@ Ouvrez un explorateur Windows depuis le dossier `portfolio` et lancez un invité
 ```
 traitement.bat C:\Users\alexandre.cuer\Desktop\extra\balades_deconf\busset divers balades_deconf 2020
 ```
-les images retaillées seront produites dans `images/divers/balades_deconf`: il ne faut donc pas de caractères accentués dans ces paramètres !!!! 
+les images retaillées seront produites dans `images/divers/2020/balades_deconf`: il ne faut donc pas de caractères accentués dans ces paramètres !!!! 
 
-le dernier paramètre, içi 2020, sert pour générer le tag d'archivage
+le dernier paramètre, içi 2020, sert aussi pour générer le tag d'archivage
 
 Le script crée automatiquement la [page de la collection](collection.md), à la racine, directement dans [_posts](_posts). 
 

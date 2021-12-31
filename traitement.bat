@@ -12,7 +12,7 @@ REM les 3 autres arguments suivants vont servir à construire :
 REM     - le chemin du répertoire qui stockera les images produites chemin/du/dossier/github/images/%2/%3
 REM     - le préfixe utilisé pour les noms d'images %2_%3
 
-set folder="%github%/images/%2/%3"
+set folder="%github%/images/%2/%4/%3"
 set prefix="%2_%3"
 echo !prefix!
 echo !folder!
@@ -50,7 +50,7 @@ for /f "tokens=1,2,3 delims=/ " %%a in ('date /t') do set now=%%c-%%b-%%a
 set postname="%now%-%prefix%.md"
 
 if exist %postname% (
-    rm %postname%
+    del %postname%
 )
 
 
@@ -67,12 +67,12 @@ echo tags:
 echo     - %2
 echo     - %2_%4
 echo image:
-echo    base: %2/%3/%2_%3
+echo    base: %2/%4/%3/%2_%3
 echo    start: 1
 echo    max: %nb%
 echo ---
 echo {%% include gallery %%}
 echo {: .t60 }
-echo {%% include list-posts tag='%2' %%})>>%postname%
+echo {%% include list-posts tag='%2_%4' %%})>>%postname%
 
 endlocal
