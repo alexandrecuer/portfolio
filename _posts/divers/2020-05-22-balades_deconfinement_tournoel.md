@@ -19,17 +19,5 @@ image:
 ---
 
 {% include gallery %}
-
-
-
-
-## toutes les images inclassées
 {: .t60 }
-{% include list-posts tag='divers' %}
-
-
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}{{ site.baseurl }}/design/page/
- [4]: {{ site.url }}{{ site.baseurl }}/design/page-fullwidth/
+{% include list-posts tag='divers_2020' %}

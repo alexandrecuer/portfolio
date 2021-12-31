@@ -2,18 +2,18 @@
 layout: page
 header: no
 subheadline:  divers
-title: "crapahutage au Lac de Guery, visite de la basilique d'Orcival et de la chocolaterie :-)"
+title: balades au bord de l'Allier, vers les mines du Roi
 breadcrumb: true
-permalink: /divers/LacGuery
+permalink: /divers/au_bord_allier
 categories:
     - divers
 tags:
     - divers
     - divers_2021
 image:
-   base: divers/LacGuery/divers_LacGuery
+   base: divers/2021/au_bord_allier/divers_au_bord_allier
    start: 1
-   max: 45
+   max: 29
 ---
 {% include gallery %}
 {: .t60 }

@@ -22,4 +22,4 @@ image:
 
 ## toutes les images inclassées
 {: .t60 }
-{% include list-posts tag='divers' %}
+{% include list-posts tag='divers_2020' %}
