@@ -30,6 +30,12 @@
     url: "/vacances/2019/"
   - title: "2020"
     url: "/vacances/2020/"
+  - title: "Chateau de la Baume 15 août 2021"
+    url: "/vacances/15aout"
+  - title: "Callian"
+    url: "/vacances/Callian"
+  - title: "marches dans le Haut-Verdon"
+    url: "/vacances/val_allos"
 
 - title: Divers
   url: "/divers"
@@ -41,3 +47,5 @@
     url: "/divers/conf_2020_tournoel"
   - title: "promenade au lac de Guery"
     url: "/divers/LacGuery"
+  - title: "Firminy Le Corbusier 2021"
+    url: "/divers/Firminy_LeCorbusier/"
