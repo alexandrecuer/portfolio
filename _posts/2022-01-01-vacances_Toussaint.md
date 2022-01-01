@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: La Toussaint à Montpellier
+title: La Toussaint à Montpellier - chateau d'Aumelas, jardin des plantes
 breadcrumb: true
 permalink: /vacances/Toussaint
 categories:
@@ -15,6 +15,10 @@ image:
    start: 1
    max: 38
 ---
+Ludivine essaye plein de jolies robes :-)
+
+[blog de l'association du chateau d'Aumelas](https://assochateauaumelas.wordpress.com/)
+
 {% include gallery %}
 {: .t60 }
 {% include list-posts tag='vacances_2021' %}

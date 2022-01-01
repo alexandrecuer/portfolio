@@ -40,6 +40,8 @@
     url: "/vacances/Fonfouillouse"
   - title: "Montpellier à la Toussaint"
     url: "/vacances/Toussaint"
+  - title: "Paques à Montpellier"
+    url: "/vacances/PaquesMontpellier"
 
 - title: Divers
   url: "/divers"
