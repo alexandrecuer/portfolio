@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: les_varennes
+title: Charbonnières les Varennes
 breadcrumb: true
 permalink: /divers/les_varennes
 categories:

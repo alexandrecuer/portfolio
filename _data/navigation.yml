@@ -36,6 +36,10 @@
     url: "/vacances/Callian"
   - title: "marches dans le Haut-Verdon"
     url: "/vacances/val_allos"
+  - title: "le chemin de Saint-Martin de Fonfouillouse"
+    url: "/vacances/Fonfouillouse"
+  - title: "Montpellier à la Toussaint"
+    url: "/vacances/Toussaint"
 
 - title: Divers
   url: "/divers"
@@ -47,9 +51,11 @@
     url: "/divers/LacGuery"
   - title: "Firminy Le Corbusier 2021"
     url: "/divers/Firminy_LeCorbusier"
-  - title: "balades au bord de l'Allier"
+  - title: "balades en Auvergne"
     url: "/divers/au_bord_allier"
   - title: "Charbonnières les Varennes"
     url: "/divers/les_varennes"
   - title: "créations des manufactures d'Aubusson"
     url: "/divers/creationsAubusson"
+  - title : "week-end à Roanne"
+    url: "/divers/Roanne"

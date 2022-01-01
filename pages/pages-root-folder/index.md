@@ -7,8 +7,8 @@
 layout: frontpage
 widget1:
   title: "week-end du 14 juillet 2020"
-  url: '/vacances/2020_07_14_we'
-  image: /vacances/2020_07_14_we/vacances_2020_07_14_we_55.jpg
+  url: '/vacances/2020/2020_07_14_we'
+  image: /vacances/2020/2020_07_14_we/vacances_2020_07_14_we_55.jpg
   text: 'balade en Haute-Loire'
 widget2:
   title: "Séville"

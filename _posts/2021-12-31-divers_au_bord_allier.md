@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: balades au bord de l'Allier, vers les mines du Roi
+title: balades au bord de l'Allier, autour des mines du Roi, grimpette au Puy de Sarcouy
 breadcrumb: true
 permalink: /divers/au_bord_allier
 categories:
