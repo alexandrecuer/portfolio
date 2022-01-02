@@ -15,7 +15,10 @@ image:
    start: 1
    max: 136
 ---
-Lecture du roman [Les comédiens](https://fr.wikipedia.org/wiki/Les_Com%C3%A9diens_(film,_1967)) de Graham Green
+Départ de Callian, montée vers Castellanne avec un arrêt à Mons puis vers Villars via le Lac de Castillon
+
+PS : Lecture du roman [Les comédiens](https://fr.wikipedia.org/wiki/Les_Com%C3%A9diens_(film,_1967)) de Graham Green
+
 {% include gallery %}
 {: .t60 }
 {% include list-posts tag='vacances_2021' %}
