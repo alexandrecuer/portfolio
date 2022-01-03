@@ -8,26 +8,27 @@ to run the site localy :
 jekyll serve --config _config.yml,_config_dev.yml
 ```
 
-## adding a collection of photos
+## ajouter une nouvelle collection de photos et produire les miniatures associées
 
-Il faut générer des photos de taille 800x600 et des miniatures
+Vous avez cloné le site via Github Desktop dans un dossier `C:\Users\votre_nom_d_utilisateur\Documents\GitHub\portfolio` ou dans `/home/votre_nom_d_utilisateur/Documents/GitHub/portfolio`
 
-### Sous Windows :
+Vous conservez vos photos originales directement dans le dossier `portfolio`, dans un sous-dossier `sources`
 
-La situation est la suivante :
+Vous chargez un jeu de photos dans ce dossier `sources`, au sein d'un dossier `busset`
 
-- Vous avez cloné le site via Github Desktop dans un dossier `C:\Users\alexandre.cuer\Documents\GitHub\portfolio`
+Ouvrez un gestionnaire de fichiers, positionnez-vous dans le dossier `portfolio` et lancez un invité de commande msdos ou shell depuis ce dossier
 
-- Vous conservez vos photos originales dans un répertoire sur votre bureau, par exemple : `C:\Users\alexandre.cuer\Desktop\extra\` ou directement dans le dossier github, dans un dossier `sources`
-
-- Vous chargez un jeu de photos dans ce dossier `extra` ou `sources`, au sein d'un dossier `balades_deconf\busset`
-
-Ouvrez un explorateur Windows depuis le dossier `portfolio` et lancez un invité de commande msdos depuis ce dossier
-
+Sous Windows :
 ```
-traitement.bat C:\Users\alexandre.cuer\Desktop\extra\balades_deconf\busset divers balades_deconf 2020
+traitement.bat C:\Users\alexandre.cuer\Documents\GitHub\portfolio\sources\busset divers busset 2020
 ```
-les images retaillées seront produites dans `images/divers/2020/balades_deconf`: il ne faut donc pas de caractères accentués dans ces paramètres !!!! 
+
+Sous Linux :
+```
+./traitement.sh /home/alexandrecuer/Documents/GitHub/portfolio/sources/busset divers busset 2020
+```
+
+les images retaillées seront produites dans `images/divers/2020/busset`: il ne faut donc pas de caractères accentués dans ces paramètres !!!! 
 
 le dernier paramètre, içi 2020, sert aussi pour générer le tag d'archivage
 
@@ -36,10 +37,6 @@ Le script crée automatiquement la [page de la collection](collection.md), à la
 Il convient de la ranger manuellement dans le sous-répertoire adapté, après l'avoir éditée pour modifier le titre afin d'en faire une phrase. Par défaut, le script utilise balades_deconf pour le titre mais ce n'est pas très parlant....
 
 Nota : la page de la collection n'est qu'un template, le script qui fait le travail est [_includes/gallery](_includes/gallery)
-
-### Sous Linux
-
-script à créer
 
 ### Mise à jour du menu de navigation 
 
