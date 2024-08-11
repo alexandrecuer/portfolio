@@ -5,7 +5,16 @@ the [foundation grid system](https://get.foundation/sites/docs-v5/components/gri
 to run the site localy :
 
 ```
+sudo apt-get install ruby-dev jekyll
+bundle install
+```
+then :
+```
 jekyll serve --config _config.yml,_config_dev.yml
+```
+or :
+```
+bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
 
 ## ajouter une nouvelle collection de photos et produire les miniatures associées
