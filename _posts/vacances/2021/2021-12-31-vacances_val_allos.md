@@ -4,7 +4,7 @@ header: no
 subheadline:  vacances
 title: Séjour à Villars-Colmars, commune du Haut Verdon, dans le Val d’Allos
 breadcrumb: true
-permalink: /vacances/val_allos
+permalink: /vacances/20221/val_allos
 categories:
     - vacances
 tags:

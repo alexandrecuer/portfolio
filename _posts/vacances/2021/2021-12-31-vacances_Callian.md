@@ -2,18 +2,18 @@
 layout: page
 header: no
 subheadline:  vacances
-title: 15 août près du chateau de La Baume
+title: Callian
 breadcrumb: true
-permalink: /vacances/15aout
+permalink: /vacances/2021/Callian
 categories:
     - vacances
 tags:
     - vacances
     - vacances_2021
 image:
-   base: vacances/2021/15aout/vacances_15aout
+   base: vacances/2021/Callian/vacances_Callian
    start: 1
-   max: 21
+   max: 48
 ---
 {% include gallery %}
 {: .t60 }

@@ -4,7 +4,7 @@ header: no
 subheadline:  vacances
 title: La Toussaint à Montpellier - chateau d'Aumelas, jardin des plantes
 breadcrumb: true
-permalink: /vacances/Toussaint
+permalink: /vacances/2021/Toussaint
 categories:
     - vacances
 tags:

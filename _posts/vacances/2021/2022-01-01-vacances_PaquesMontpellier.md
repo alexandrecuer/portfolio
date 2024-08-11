@@ -4,7 +4,7 @@ header: no
 subheadline:  vacances
 title: Paques à Montpellier
 breadcrumb: true
-permalink: /vacances/PaquesMontpellier
+permalink: /vacances/2021/PaquesMontpellier
 categories:
     - vacances
 tags:

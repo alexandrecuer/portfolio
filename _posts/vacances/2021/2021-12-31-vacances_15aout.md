@@ -2,18 +2,18 @@
 layout: page
 header: no
 subheadline:  vacances
-title: A la recherche de Saint-Martin de Fonfouillouse - sur le chemin des muletiers
+title: 15 août près du chateau de La Baume
 breadcrumb: true
-permalink: /vacances/Fonfouillouse
+permalink: /vacances/2021/15aout
 categories:
     - vacances
 tags:
     - vacances
     - vacances_2021
 image:
-   base: vacances/2021/Fonfouillouse/vacances_Fonfouillouse
+   base: vacances/2021/15aout/vacances_15aout
    start: 1
-   max: 16
+   max: 21
 ---
 {% include gallery %}
 {: .t60 }
