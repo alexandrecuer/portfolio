@@ -32,7 +32,7 @@ jobs:
         uses: actions/configure-pages@v5
       - run: | 
           ruby --version
-          apt install ruby-dev
+          sudo apt install ruby-dev
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
