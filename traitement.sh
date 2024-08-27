@@ -28,11 +28,11 @@ do
   fi
 done
 
-land="{src}/landscape"
+land="${src}/landscape"
 if [ -d $land ]; then
   for i in `ls ${land}`
   do
-    img="{land}/${i}"
+    img="${land}/${i}"
     if [ ! -d $img ]; then
         echo $img
         convert $img -resize 800x600 "${folder}/${prefix}_${nb}.jpg"
@@ -50,6 +50,8 @@ if [ -e $postname ]; then
   rm -f $postname
 fi
 
+let nb-=1
+
 cat >> $postname <<EOF
 ---
 layout: page
@@ -57,7 +59,7 @@ header: no
 subheadline:  ${2}
 title: ${3}
 breadcrumb: true
-permalink: /${2}/${3}
+permalink: /${2}/${4}/${3}
 categories:
     - ${2}
 tags:
@@ -68,7 +70,7 @@ image:
     start: 1
     max: ${nb}
 ---
-{%% include gallery %%}
+{% include gallery %}
 {: .t60 }
-{%% include list-posts tag='${2}_${4}' %%}
+{% include list-posts tag='${2}_${4}' %}
 EOF
