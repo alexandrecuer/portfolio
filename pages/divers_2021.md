@@ -2,12 +2,12 @@
 layout: page
 show_meta: false
 subheadline: "photos diverses !"
-title: "2020"
+title: "2021"
 header: no
-permalink: "/divers/2020/"
+permalink: "/divers/2021/"
 ---
 <ul>
-    {% for post in site.tags.divers_2020 %}
+    {% for post in site.tags.divers_2021 %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

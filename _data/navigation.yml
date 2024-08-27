@@ -32,6 +32,8 @@
     url: "/vacances/2020/"
   - title: "2021"
     url: "/vacances/2021/"
+  - title: "2022"
+    url: "/vacances/2022/"
 
 - title: Divers
   url: "/divers"
@@ -39,15 +41,7 @@
   dropdown:
   - title: "2020 - balades de déconfinement"
     url: "/divers/2020/"
-  - title: "promenade au lac de Guery"
-    url: "/divers/LacGuery"
-  - title: "Firminy Le Corbusier 2021"
-    url: "/divers/Firminy_LeCorbusier"
-  - title: "balades en Auvergne"
-    url: "/divers/au_bord_allier"
-  - title: "Charbonnières les Varennes"
-    url: "/divers/les_varennes"
-  - title: "créations des manufactures d'Aubusson"
-    url: "/divers/creationsAubusson"
-  - title : "week-end à Roanne"
-    url: "/divers/Roanne"
+  - title: "2021"
+    url: "/divers/2021/"
+  - title: "2022"
+    url: "/divers/2022/"

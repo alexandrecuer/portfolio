@@ -1,13 +1,13 @@
 ---
 layout: page
 show_meta: false
-subheadline: "photos diverses !"
-title: "2020"
+subheadline: "Vacances !"
+title: "holidays 2022"
 header: no
-permalink: "/divers/2020/"
+permalink: "/vacances/2022/"
 ---
 <ul>
-    {% for post in site.tags.divers_2020 %}
+    {% for post in site.tags.vacances_2022 %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
