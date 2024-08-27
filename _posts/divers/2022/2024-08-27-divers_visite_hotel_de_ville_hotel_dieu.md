@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: visite_hotel_de_ville_hotel_dieu
+title: journée patrimoine
 breadcrumb: true
 permalink: /divers/2022/visite_hotel_de_ville_hotel_dieu
 categories:
@@ -13,7 +13,7 @@ tags:
 image:
     base: divers/2022/visite_hotel_de_ville_hotel_dieu/divers_visite_hotel_de_ville_hotel_dieu
     start: 1
-    max: 43
+    max: 42
 ---
 {% include gallery %}
 {: .t60 }
