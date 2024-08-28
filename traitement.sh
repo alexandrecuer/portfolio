@@ -20,7 +20,7 @@ nb=1
 for i in `ls ${src}`
 do
   img="${src}/${i}"
-  if [ ! -d $img ]; then
+  if [ ! -d $img ] && [ "${i: -4}" != ".mp4" ]; then
       echo $img
       convert $img -resize 800x600 "${folder}/${prefix}_${nb}.jpg"
       convert $img -resize 200x150 "${folder}/${prefix}_${nb}-thumb.jpg"
