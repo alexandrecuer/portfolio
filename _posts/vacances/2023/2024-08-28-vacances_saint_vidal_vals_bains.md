@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: saint_vidal_vals_bains
+title: Chateau de Saint Vidal près du Puy et Vals les bains
 breadcrumb: true
 permalink: /vacances/2023/saint_vidal_vals_bains
 categories:
@@ -13,7 +13,7 @@ tags:
 image:
     base: vacances/2023/saint_vidal_vals_bains/vacances_saint_vidal_vals_bains
     start: 1
-    max: 60
+    max: 58
 ---
 {% include gallery %}
 {: .t60 }
