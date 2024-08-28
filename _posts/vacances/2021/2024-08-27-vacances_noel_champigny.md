@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: noel_champigny_2021
+title: noël à champigny 2021
 breadcrumb: true
 permalink: /vacances/2021/noel_champigny
 categories:
