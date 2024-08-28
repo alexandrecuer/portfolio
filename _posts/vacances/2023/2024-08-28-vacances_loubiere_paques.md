@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: loubiere_paques
+title: Paques 2023 à la Loubière
 breadcrumb: true
 permalink: /vacances/2023/loubiere_paques
 categories:

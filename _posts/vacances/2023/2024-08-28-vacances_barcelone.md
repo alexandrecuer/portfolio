@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: barcelone
+title: Barcelone
 breadcrumb: true
 permalink: /vacances/2023/barcelone
 categories:
@@ -13,7 +13,7 @@ tags:
 image:
     base: vacances/2023/barcelone/vacances_barcelone
     start: 1
-    max: 185
+    max: 182
 ---
 {% include gallery %}
 {: .t60 }
