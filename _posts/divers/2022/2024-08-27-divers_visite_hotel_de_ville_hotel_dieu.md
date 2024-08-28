@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: journée du patrimoine
+title: journée du patrimoine - visite de l'hôtel de ville et de l'hotel Dieu, future bibliothéque
 breadcrumb: true
 permalink: /divers/2022/visite_hotel_de_ville_hotel_dieu
 categories:

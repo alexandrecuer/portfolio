@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: chateau_aulteribe
+title: Les collections du chateau d'Aulteribe dans l'Allier
 breadcrumb: true
 permalink: /divers/2022/chateau_aulteribe
 categories:
@@ -13,7 +13,7 @@ tags:
 image:
     base: divers/2022/chateau_aulteribe/divers_chateau_aulteribe
     start: 1
-    max: 35
+    max: 46
 ---
 {% include gallery %}
 {: .t60 }

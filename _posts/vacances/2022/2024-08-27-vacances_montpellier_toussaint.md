@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: montpellier_toussaint
+title: La toussaint 2022 à Montpellier
 breadcrumb: true
 permalink: /vacances/2022/montpellier_toussaint
 categories:
