@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: bourges
+title: A bourges avec Maura pour passer l'oral des INSA
 breadcrumb: true
 permalink: /divers/2025/bourges
 categories:
