@@ -38,6 +38,8 @@
     url: "/vacances/2023/"
   - title: "2024"
     url: "/vacances/2024/"
+  - title: "2025"
+    url: "/vacances/2025/"
 
 - title: Divers
   url: "/divers"
