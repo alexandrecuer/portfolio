@@ -1,7 +1,7 @@
 ---
 layout: page
 header: no
-subheadline:  vacances
+subheadline: La Croatie
 title: Sibenik et la rivière Krka
 breadcrumb: true
 permalink: /vacances/croatia/krka
