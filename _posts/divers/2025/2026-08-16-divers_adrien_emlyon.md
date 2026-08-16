@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: écrits et oraux de l'em Lyon
+title: écrits et oraux de l'EM Lyon
 breadcrumb: true
 permalink: /divers/2025/adrien_emlyon
 categories:
