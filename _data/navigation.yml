@@ -29,6 +29,8 @@
     url: "/vacances/croatia/zagreb"
   - title: "Krka"
     url: "/vacances/croatia/krka"
+  - title: "Split"
+    url: "/vacances/croatia/split"
 
 - title: Vacances
   url: "/vacances"
