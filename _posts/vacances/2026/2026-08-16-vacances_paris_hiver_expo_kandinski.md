@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: Paris, noël 2025 , expositions Kandinski
+title: Paris, noël 2025 , exposition Kandinski
 breadcrumb: true
 permalink: /vacances/2026/paris_hiver_expo_kandinski
 categories:
