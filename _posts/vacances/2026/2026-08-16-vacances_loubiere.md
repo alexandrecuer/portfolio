@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: loubiere
+title: A la Loubière
 breadcrumb: true
 permalink: /vacances/2026/loubiere
 categories:
