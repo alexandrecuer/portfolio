@@ -16,7 +16,7 @@ image:
     max: 70
 ---
 - Sibenik et la cathédrale Saint-Jacques, construite par des artisans italiens,
-- Le parc de Krka et le monastère de Visovac,
+- Le parc de Krka, les centrales hydrauliques et le monastère de Visovac,
 - Les vestiges de Burnum, camp de la XXième légion romaine
 
 {% include gallery %}
