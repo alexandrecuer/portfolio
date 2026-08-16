@@ -1,8 +1,8 @@
 ---
 layout: page
 header: no
-subheadline:  vacances
-title: zagreb
+subheadline: La Croatie
+title: Zagreb
 breadcrumb: true
 permalink: /vacances/croatia/zagreb
 categories:

@@ -23,7 +23,6 @@
     url: "/andalousie/sevilla/"
 
 - title: Croatie
-  url: "/croatia"
   side: left
   dropdown:
   - title: "Zagreb"
