@@ -37,6 +37,8 @@
     url: "/vacances/croatia/trsteno"
   - title: "Dubrovnik"
     url: "/vacances/croatia/dubrovnik"
+  - title: "Ston"
+    url: "/vacances/croatia/ston"
 
 - title: Vacances
   url: "/vacances"
