@@ -27,6 +27,8 @@
   dropdown:
   - title: "Zagreb"
     url: "/vacances/croatia/zagreb"
+  - title: "Krka"
+    url: "/vacances/croatia/krka"
 
 - title: Vacances
   url: "/vacances"
