@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  divers
-title: annivesaire Adrien
+title: anniversaire Adrien
 breadcrumb: true
 permalink: /divers/2025/anniv_adri
 categories:
