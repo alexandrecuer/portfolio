@@ -2,7 +2,7 @@
 layout: page
 header: no
 subheadline:  vacances
-title: Sibenik, le parc de Krka, le monastère de Visovac, les vestiges de Burnum, camp de la XXième légion romaine
+title: Sibenik et la rivière Krka
 breadcrumb: true
 permalink: /vacances/croatia/krka
 categories:
@@ -15,6 +15,10 @@ image:
     start: 1
     max: 70
 ---
+Sibenik et la cathédrale Saint-Jacques, construite par des artisans italiens,
+Le parc de Krka et le monastère de Visovac,
+Les vestiges de Burnum, camp de la XXième légion romaine
+
 {% include gallery %}
 {: .t60 }
 {% include list-posts tag='vacances_croatia' %}
